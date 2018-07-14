@@ -1,0 +1,6 @@
+num = int(input("enter any number from 1 to 7 to find the week day"))
+if(num==1):
+	print("It's Monday")
+elif(num==2):
+	print("It's Tuesday")
+elif(num==
