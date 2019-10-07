@@ -5,6 +5,8 @@ elif(age>=2 and age<=3):
 	print("toddlers")
 elif(age>=10 and age<=18):
 	print("teenager or adolescent")
+elif(age>=60):
+	print("Senior Citizen")
 else:
 	print("adult")
 
